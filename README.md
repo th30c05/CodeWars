@@ -1,1 +1,1 @@
-# CodeWars2019
+# CodeWars
